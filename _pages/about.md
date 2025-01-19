@@ -11,7 +11,7 @@ I'm a third year undergraduate student from [School of EECS](https://eecs.pku.ed
 
 I am very fortunate to be advised by [Prof. Yangtong](https://yangtonghome.github.io/) from [School of Computer Science](https://cs.pku.edu.cn/), Peking University. 
 
-[Email](2200012934@stu.pku.edu.cn) / [Github](https://github.com/Ringringring) 
+[Email](mailto:2200012934@stu.pku.edu.cn) / [Github](https://github.com/Ringringring) 
 
 A data-driven personal website
 ======
